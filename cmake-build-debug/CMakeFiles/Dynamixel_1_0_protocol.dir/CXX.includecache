@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/toshi/Documents/github/Dynamixel_1_0_protocol/dynamixel_protocol_1.cpp
+dynamixel_protocol_1.h
+/home/toshi/Documents/github/Dynamixel_1_0_protocol/dynamixel_protocol_1.h
+
+/home/toshi/Documents/github/Dynamixel_1_0_protocol/dynamixel_protocol_1.h
+stdio.h
+-
+
+/home/toshi/Documents/github/Dynamixel_1_0_protocol/main.cpp
+iostream
+-
+boost/format.hpp
+-
+dynamixel_protocol_1.h
+/home/toshi/Documents/github/Dynamixel_1_0_protocol/dynamixel_protocol_1.h
+serial_linux.h
+/home/toshi/Documents/github/Dynamixel_1_0_protocol/serial_linux.h
+
+/home/toshi/Documents/github/Dynamixel_1_0_protocol/serial_linux.cpp
+serial_linux.h
+/home/toshi/Documents/github/Dynamixel_1_0_protocol/serial_linux.h
+
+/home/toshi/Documents/github/Dynamixel_1_0_protocol/serial_linux.h
+fcntl.h
+-
+errno.h
+-
+termios.h
+-
+unistd.h
+-
+cstring
+-
+stdio.h
+-
+string
+-
+
